@@ -1,0 +1,96 @@
+body {
+    color: #FFF;
+    font-family: cursive;
+}
+
+h1 {
+    font-size: 550%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 170%;
+}
+
+h3 {
+    font-size: 150%;
+}
+
+#screen {
+    width: 600px;
+    height: 400px;
+}
+
+#overlay {
+    position: absolute;
+    z-index: 3;
+    top: 0px;
+    left: 0px;
+    width: 1024px;
+    height: 663px;
+}
+
+#status-text {
+    margin-top: 175px;
+    height: 100px;
+    display: block;
+}
+
+menu {}
+
+button {
+    border: 1px solid rgb(219, 11, 11);
+    background-color: #000;
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    font-family: cursive;
+}
+
+.play {
+    width: 200px;
+    height: 80px;
+    font-size: 2em;
+    margin: 0px;
+    padding: 0px;
+}
+
+.difficulty {
+    width: 100px;
+    height: 50px;
+    font-size: 1em;
+    margin: 0px;
+    padding: 0px;
+}
+
+.difficulty:first-child {
+    margin-right: 5px;
+}
+
+.difficulty:last-child {
+    margin-left: 5px;
+}
+
+#difficulty-buttons {
+    width: 310px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+#easy-button {
+    display: block;
+}
+
+#normal-button {
+    display: block;
+}
+
+#hard-button {
+    display: block;
+}
+
+.right {
+    float: right;
+}
