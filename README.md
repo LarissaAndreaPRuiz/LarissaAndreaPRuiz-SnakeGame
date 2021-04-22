@@ -1,6 +1,6 @@
 <h3> 🐍 Snake Game 🐍 </h3>
 
-A project developed in HTML5, CSS3 and JavaScript with the help of the canvas, to remember the famous "Snake" popular in Nokia phones in the late 90s.
+A project developed in HTML5, CSS3, PHP and JavaScript with the help of the canvas, to remember the famous "Snake" popular in Nokia phones in the late 90s.
 
 You can se the final result here:
 
